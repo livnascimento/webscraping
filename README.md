@@ -1,6 +1,11 @@
 # Web Scraping - Ração de Gato na Amazon
 
+![Static Badge](https://img.shields.io/badge/status-em_desenvolvimento-blue)
+
+> ⚠️ por ainda estar em fase de desenvolvimento, o código e o README podem sofrer alterações em breve.
+
 Meu colega [Ralph](https://www.linkedin.com/in/ralph-harada/) me desafiou a criar um webscraping com C# e para dar a minha carinha decidi usar a Amazon para buscar rações de gato, identificar a mais barata e enviar as informações (nome, preço e link) através do Telegram.
+
 
 ## Como usar o aplicativo
 
